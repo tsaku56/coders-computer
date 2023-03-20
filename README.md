@@ -14,6 +14,7 @@ extensions.
  - cd: Change directory - change current work directory 
  - mkdir: Make directory - create new directory within current directory
  - touch: Create new file within directory.
+ 
 3;
 
  1. Change directory to "projects"
